@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'HVD Poster';
+    font-style: normal;
+    font-weight: 400;
+    src: local('HVD Poster'), local('HVDPoster-Regular'),
+        url(hvd-poster_6502d79f7a4c878a2bb3536e10377321.woff) format('woff'),
+        url(hvd-poster_6502d79f7a4c878a2bb3536e10377321.ttf) format('truetype');
+}
